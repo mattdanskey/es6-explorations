@@ -1,0 +1,27 @@
+{
+  "name": "es6-explorations",
+  "version": "0.0.0",
+  "description": "Playing with es6, koa, and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattdanskey/es6-explorations.git"
+  },
+  "keywords": [
+    "es6",
+    "koa",
+    "react"
+  ],
+  "author": "Matthew Danskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattdanskey/es6-explorations/issues"
+  },
+  "homepage": "https://github.com/mattdanskey/es6-explorations",
+  "dependencies": {
+    "koa": "^0.18.0"
+  }
+}
